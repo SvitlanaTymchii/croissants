@@ -1,3 +1,10 @@
 body {
   background-color: blanchedalmond;
 }
+h1,
+p {
+  text-align: center;
+}
+footer {
+  text-align: center;
+}
